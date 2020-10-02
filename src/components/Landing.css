@@ -1,0 +1,15 @@
+.landing {
+  position: relative;
+
+  width: 98%;
+  height: 98%;
+
+  background-color: rgb(207, 207, 207);
+}
+
+.landing__logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
